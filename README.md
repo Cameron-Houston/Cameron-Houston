@@ -6,25 +6,6 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3iebbklsf7uviiiyy8gw0f9xt&cover_image=false&theme=default&show_offline=false&background_color=231515&interchange=false&bar_color=5c335b&bar_color_cover=true" /></div>  
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
