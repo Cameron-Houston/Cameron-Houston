@@ -1,7 +1,7 @@
 ### <div align="center">I'm Cameron, a full-time Computer Science Student 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Applying to Colleges  
+- 🔭 I’m currently studying at Houston Christian University 
   
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3iebbklsf7uviiiyy8gw0f9xt&cover_image=false&theme=default&show_offline=false&background_color=231515&interchange=false&bar_color=5c335b&bar_color_cover=true" /></div>  
