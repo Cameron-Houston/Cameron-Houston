@@ -6,7 +6,7 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3iebbklsf7uviiiyy8gw0f9xt&cover_image=false&theme=default&show_offline=false&background_color=231515&interchange=false&bar_color=5c335b&bar_color_cover=true" /></div>  
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3iebbklsf7uviiiyy8gw0f9xt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4846a4&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## Connect with me  
 <div align="center">
