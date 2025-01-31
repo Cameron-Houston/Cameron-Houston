@@ -4,8 +4,12 @@
 - 🔭 I’m currently studying at Houston Christian University 
   
 
-<div align= "center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3iebbklsf7uviiiyy8gw0f9xt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4846a4&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) </div>
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3iebbklsf7uviiiyy8gw0f9xt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4846a4&bar_color_cover=true" alt="spotify-github-profile">
+  </a>
+</div>
+
 
 ## Connect with me  
 <div align="center">
