@@ -1,47 +1,63 @@
-### <div align="center">I'm Cameron, a full-time Computer Science Student 👨‍💻</div>  
-  
+# 👋 Hi, I'm Cameron Houston
 
-- 🔭 I’m currently studying at Houston Christian University 
-  
+Welcome to my GitHub profile! I'm a **Software Engineer** passionate about crafting user-friendly digital solutions and building innovative web applications. My expertise lies in **front-end development**, **UI/UX design**, and creating seamless user experiences.
 
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3iebbklsf7uviiiyy8gw0f9xt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4846a4&bar_color_cover=true" alt="spotify-github-profile">
-  </a>
-</div>
+---
 
+## 🚀 What I Do
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/cameron-houston" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+- **Web Development**: Building responsive, modern websites tailored to your needs.
+- **UI/UX Design**: Designing intuitive and visually appealing user interfaces.
+- **API Integration**: Connecting applications to external services for enhanced functionality.
+- **Consulting**: Providing expert advice to help achieve your digital goals.
 
-<br/>  
+---
 
+## 🛠️ Technologies & Tools
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cameron-houston&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-<br/>  
+---
 
-  
+## 🌟 Featured Projects
 
-<br/>  
+### [Weather API Dashboard](https://github.com/Cameron-Houston/weather-api-dashboard)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-  
+A web application that provides real-time weather updates and forecasts for any location using a weather API.
 
-<br/>  
+### [E-Commerce Landing Page](https://github.com/Cameron-Houston/ecommerce-landing-page)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cameron-houston&&style=flat-square" align="center" />
-</div>  
-  
+A responsive and modern landing page for an e-commerce platform, featuring product highlights and a call-to-action section.
 
-<br/>  
+### [Portfolio Website](https://github.com/Cameron-Houston/portfolio-website)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-<div align="center"></div>
-<br />
+A personal portfolio website showcasing my projects, skills, and contact information.
 
+---
+
+## 📫 Let's Connect
+
+- **Email**: [cameron@example.com](mailto:cameron@example.com)
+- **GitHub**: [github.com/Cameron-Houston](https://github.com/Cameron-Houston)
+- **LinkedIn**: [linkedin.com/in/cameron-houston](https://linkedin.com/in/cameron-houston)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 😊
