@@ -56,7 +56,7 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 - **Email**: [cameron@example.com](mailto:cameron@example.com)
 - **GitHub**: [github.com/Cameron-Houston](https://github.com/Cameron-Houston)
-- **LinkedIn**: [linkedin.com/in/cameron-houston](https://linkedin.com/in/cameron-houston)
+- **LinkedIn**: [linkedin.com/in/cameron-houston]([https://linkedin.com/in/cameron-houston](https://www.linkedin.com/in/cameron-houston-26ab73282/))
 
 ---
 
