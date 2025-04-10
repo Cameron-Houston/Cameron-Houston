@@ -31,11 +31,12 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about craft
 ## 🌟 Featured Projects
 
 ### [Google Business Scraper](https://github.com/Cameron-Houston/Google-Business-Scraper)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 
-A web application that provides real-time weather updates and forecasts for any location using a weather API.
+A browser-based tool that finds local businesses by type and location using the SerpAPI, and lets users export results to Excel, Notion, or MongoDB with a simple Streamlit interface.
 
 ### [E-Commerce Landing Page](https://github.com/Cameron-Houston/ecommerce-landing-page)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
