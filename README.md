@@ -56,7 +56,7 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 ## 📫 Let's Connect
 
 - **Email**: [Houston.cameron@outlook.com](mailto:houston.cameron@outlook.com)
-- **GitHub**: [github.com/Cameron-Houston](https://github.com/Cameron-Houston)
+- **GitHub**: [github.com/Cameron-Houston](https://github.com/Houston-Cameron)
 - **LinkedIn**: [linkedin.com/in/cameron-houston]([https://linkedin.com/in/cameron-houston](https://www.linkedin.com/in/cameron-houston-26ab73282/))
 
 ---
