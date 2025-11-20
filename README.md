@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about craft
 - **Web Development**: Building responsive, modern websites tailored to your needs.
 - **UI/UX Design**: Designing intuitive and visually appealing user interfaces.
 - **API Integration**: Connecting applications to external services for enhanced functionality.
-- **Consulting**: Providing expert advice to help achieve your digital goals.
 
 ---
 
@@ -38,18 +37,12 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about craft
 
 A browser-based tool that finds local businesses by type and location using the SerpAPI, and lets users export results to Excel, Notion, or MongoDB with a simple Streamlit interface.
 
-### [E-Commerce Landing Page](https://github.com/Cameron-Houston/ecommerce-landing-page)
+### [Photo Booth App](https://github.com/Cameron-Houston/Photo-Booth-App)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 
-A responsive and modern landing page for an e-commerce platform, featuring product highlights and a call-to-action section.
+A fun little photobooth app that allows you to upload pictures and turn them into playful, stylized versions of yourself. The app can add filters, backgrounds, stickers, and animated effects to make each photo look unique. After editing, you can save the image, download it, or share it directly with friends.
 
-### [Portfolio Website](https://github.com/Cameron-Houston/portfolio-website)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-A personal portfolio website showcasing my projects, skills, and contact information.
 
 ---
 
